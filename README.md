@@ -1,0 +1,1 @@
+# @matchlayer/pug-lint-config
